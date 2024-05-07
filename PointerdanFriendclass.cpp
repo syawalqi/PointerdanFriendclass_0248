@@ -8,3 +8,5 @@ class PersegiPanjang{
     int LuasPersegiPanjang(int b, int a)
     {
         return a * b;
+    }
+};
