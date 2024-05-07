@@ -24,3 +24,9 @@ class segitiga
         return p.panjang;
     }
 };
+
+int main () {
+    PersegiPanjang pp;
+    segitiga sg;
+    cout << "Masukan Panjang :";
+}
