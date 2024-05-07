@@ -31,5 +31,7 @@ int main () {
     cout << "Masukan Panjang :";
     cin >> pp.panjang;
     cout << "Masukan Lebar :";
-    cin >> pp.lebar
+    cin >> pp.lebar;
+    cout << "Masukan Tinggi :";
+    cin >> sg.tinggi;
 }
