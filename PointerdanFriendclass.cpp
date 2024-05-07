@@ -19,4 +19,8 @@ class segitiga
     {
         return 0.5 * f * g;
     }
+
+    int hitung(PersegiPanjang p){
+        return p.panjang;
+    }
 };
