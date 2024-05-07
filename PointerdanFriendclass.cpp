@@ -34,4 +34,6 @@ int main () {
     cin >> pp.lebar;
     cout << "Masukan Tinggi :";
     cin >> sg.tinggi;
+    cout << "Masukan Alas :";
+    cin >> sg.alas;
 }
