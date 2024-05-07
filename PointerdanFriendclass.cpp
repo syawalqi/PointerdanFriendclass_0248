@@ -16,5 +16,7 @@ class segitiga
     public:
     int alas, tinggi;
     int LuasSegitiga(int f, int g)
-
+    {
+        return 0.5 * f * g;
+    }
 };
