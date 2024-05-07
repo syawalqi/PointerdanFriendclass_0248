@@ -16,4 +16,9 @@ int main(){
     mahasiswa &refMhs = mhs; // pointer referense refMhs
     refMhs.nim = 2; // member acces operator
     mhs.showNim();
+
+    mahasiswa *pHms = &mhs;
+    pHms->nim = 3;
+    pHms->showNim();
+    return 0;
 }
