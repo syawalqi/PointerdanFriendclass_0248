@@ -29,4 +29,5 @@ int main () {
     PersegiPanjang pp;
     segitiga sg;
     cout << "Masukan Panjang :";
+    cin >> pp.panjang;
 }
