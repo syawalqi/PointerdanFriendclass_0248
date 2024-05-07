@@ -6,3 +6,5 @@ class PersegiPanjang{
     int panjang, lebar;
 
     int LuasPersegiPanjang(int b, int a)
+    {
+        return a * b;
