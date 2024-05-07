@@ -13,6 +13,6 @@ class PersegiPanjang{
 
 class segitiga
 {
-    public
+    public:
 
 };
