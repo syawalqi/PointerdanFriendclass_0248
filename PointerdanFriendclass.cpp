@@ -14,7 +14,7 @@ class PersegiPanjang{
 class segitiga
 {
     public:
-    int alas,
-    tinggi;
+    int alas, tinggi;
+    int LuasSegitiga(int f, int g)
 
 };
