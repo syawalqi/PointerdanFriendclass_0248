@@ -10,3 +10,12 @@ class orang{
     friend class siswa;
 };
 
+class siswa
+{
+    private: int id;
+
+    public : 
+    void setId(int pID);
+    void displayAll(orang &a)
+    
+}
