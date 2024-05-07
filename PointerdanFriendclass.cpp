@@ -30,4 +30,6 @@ int main () {
     segitiga sg;
     cout << "Masukan Panjang :";
     cin >> pp.panjang;
+    cout << "Masukan Lebar :";
+    cin >> pp.lebar
 }
