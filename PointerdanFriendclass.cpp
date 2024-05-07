@@ -15,5 +15,6 @@ class segitiga
 {
     public:
     int alas,
+    tinggi;
 
 };
