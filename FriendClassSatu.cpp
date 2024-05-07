@@ -16,6 +16,11 @@ class siswa
 
     public : 
     void setId(int pID);
-    void displayAll(orang &a)
-    
+    void displayAll(orang &a);
+};
+
+void siswa::displayAll(orang &a)
+{
+    cout << id << endl << a.nama;
 }
+
